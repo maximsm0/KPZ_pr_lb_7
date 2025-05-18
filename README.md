@@ -25,7 +25,7 @@ deleteEntity(id) → DELETE /posts/:id
 ![image](https://github.com/user-attachments/assets/d2b7ad63-b5df-4b25-97e0-fcf51c481942)  
 - Створено axio.ts та в ньому налаштован baseUrl, імпортованні змінні з .env, та реалізована обробка помилок  
 ![image](https://github.com/user-attachments/assets/4577bc57-d0b8-47ad-bbd4-fbd216038998)  
-- Замінив назву mockFunctions на posts.ts, та перероблено реалізацію на використання api створеного в 5 роботі.  
+- Замінив назву mockFunctions на posts.ts, та перероблено реалізацію на використання api створеного в 6 роботі.  
 ![image](https://github.com/user-attachments/assets/b68fa750-f09a-4ce7-a20a-c9b0086db417)
 # Демонстрація результату:
 - При створенні post:
